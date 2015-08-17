@@ -9,5 +9,8 @@
             "email": "claus@wittnezz.dk"
         }
     ],
+    "autoload": {
+      "psr-4": {"pinr\\": "src/pinr/"}
+    },
     "require": {}
 }
